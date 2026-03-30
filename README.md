@@ -2,7 +2,7 @@
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Base de Datos](https://img.shields.io/badge/Database-[MySQL_/_PostgreSQL]-blue?style=for-the-badge) 
+![Base de Datos](https://img.shields.io/badge/Database-[MySQL]-blue?style=for-the-badge) 
 
 ## 📖 Sobre el Proyecto
 
